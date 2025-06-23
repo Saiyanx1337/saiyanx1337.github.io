@@ -2,31 +2,42 @@
 
 /* Set background color, text color, and center content */
 body {
-  background-color: #ff33fb; /* Bright pink background */
-  color: purple;             /* Purple text color */
-  margin: 0;                 /* Remove default margin */
-  height: 100vh;             /* Full viewport height */
-  
-  /* Use Flexbox to center content */
-  display: flex;
-  justify-content: center;   /* Centers horizontally */
-  align-items: center;       /* Centers vertically */
-  
-  /* Optional: Set font for better readability */
-  font-family: Arial, sans-serif;
-  
-  /* For ensuring text is readable and not cramped */
-  text-align: center;
-  padding: 20px;
-  box-sizing: border-box;
+    background-color: #ff33fb;
+    /* Bright pink background */
+    color: purple;
+    /* Purple text color */
+    margin: 0;
+    /* Remove default margin */
+    height: 100vh;
+    /* Full viewport height */
+
+    /* Use Flexbox to center content */
+    display: flex;
+    justify-content: center;
+    /* Centers horizontally */
+    align-items: center;
+    /* Centers vertically */
+
+    /* Optional: Set font for better readability */
+    font-family: Arial, sans-serif;
+
+    /* For ensuring text is readable and not cramped */
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
 /* Optional: style links and headings to match */
 a {
-  color: purple;
-  text-decoration: underline;
+    color: purple;
+    text-decoration: underline;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: purple;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: purple;
 }
