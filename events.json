@@ -30,10 +30,10 @@
       "timezone": "Asia/Tokyo",
       "dayReset": "00:00"
     },
-    "NC": {
-      "name": "Neural Cloud",
-      "timezone": "Etc/GMT+8",
-      "dayReset": "05:00"
+    "WUWA": {
+      "name": "Wuthering Waves",
+      "timezone": "Etc/GMT+5",
+      "dayReset": "04:00"
     },
     "NIKKE": {
       "name": "GODDESS OF VICTORY: NIKKE",
