@@ -1,0 +1,20 @@
+/* style.css */
+
+/* Apply background and text color to the whole page */
+body {
+  background-color: #ff33fb; /* Bright pink background */
+  color: purple;             /* Purple text color */
+  margin: 0;                 /* Remove default margin for full background coverage */
+  font-family: Arial, sans-serif; /* Optional: Set a clean font for readability */
+}
+
+/* Optional: Ensure links are also purple and visible */
+a {
+  color: purple;
+  text-decoration: underline;
+}
+
+/* Optional: Make headings more prominent */
+h1, h2, h3, h4, h5, h6 {
+  color: purple;
+}
