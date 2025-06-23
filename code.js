@@ -102,7 +102,7 @@ function updateCountdown() {
       const drTillMinutes = tillNextDay.minutes().toString().padStart(2, '0');
       const drTillSeconds = tillNextDay.seconds().toString().padStart(2, '0');
 
-      var gameHtmlString = `<div class="row"><div class="col"><h2>${gameName}</h2>Day Resets At: ${drHours}:${drMinutes}:${drSeconds}<br />In ${drTillHours}:${drTillMinutes}:${drTillSeconds}</div><div class="col">`;
+      var gameHtmlString = `<div class="row"><div class="col"><h2>${gameName}</h2><h5>Day Resets At: ${drHours}:${drMinutes}:${drSeconds}<br />In ${drTillHours}:${drTillMinutes}:${drTillSeconds}</h5></div><div class="col">`;
 
       allEvents[game].forEach(function (event) {
         if ('hidden' in event && event.hidden) {
