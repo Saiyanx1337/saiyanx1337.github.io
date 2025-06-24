@@ -134,12 +134,12 @@ function updateCountdown() {
           foundEventsOfNote = true;
           if (debug) console.log("event " + event.event + " is in THE FUTURE (zura)");
           targetDate = startDate;
-          tag = "Starts";
+          tag = "Arrives";
         } else if (now.isAfter(startDate) && now.isBefore(endDate)) {
           foundEventsOfNote = true;
           if (debug) console.log("event " + event.event + " is in the here and now");
           targetDate = endDate;
-          tag = "Ends";
+          tag = "Departs";
         } else {
           // this shouldn't happen...
           if (debug) console.log("oh no, you broke time again, didn't you?");
