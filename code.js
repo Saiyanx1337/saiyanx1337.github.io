@@ -2,7 +2,7 @@ var allGames = {};
 var allEvents = {};
 
 // should get timezone from the user's browser, but we need a default just in case that fails
-var userTimezone = "Etc/UTC";
+var userTimezone = "US/Central";
 
 // only turn this on if you really like the idea of lots and lots of console spew
 const debug = false;
