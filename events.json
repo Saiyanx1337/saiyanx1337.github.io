@@ -23,7 +23,7 @@
         "HSR": {
             "name": "Honkai: Star Rail",
             "timezone": "Etc/GMT-8",
-            "dayReset": "04:00"
+            "dayReset": "04:00:00"
         },
         "MAGIRECO": {
             "name": "Magia Record",
