@@ -23,7 +23,7 @@
         "HSR": {
             "name": "Honkai: Star Rail",
             "timezone": "Etc/GMT-8",
-            "dayReset": "04:00:00"
+            "dayReset": "04:00"
         },
         "MAGIRECO": {
             "name": "Magia Record",
@@ -53,7 +53,7 @@
             {
                 "event": "Cipher",
                 "start": "2025-06-11 12:00:00",
-                "end": "2025-07-02 12:00:00"
+                "end": "2025-07-02 04:00:00"
             },
             {
                 "event": "Phainon",
