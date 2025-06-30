@@ -22,7 +22,7 @@
         },
         "HSR": {
             "name": "Honkai: Star Rail",
-            "timezone": "Etc/GMT-8",
+            "timezone": "Etc/GMT+5",
             "dayReset": "04:00"
         },
         "MAGIRECO": {
