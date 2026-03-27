@@ -32,7 +32,7 @@
         },
         "WUWA": {
             "name": "Wuthering Waves",
-            "timezone": "Etc/GMT+5",
+            "timezone": "Etc/GMT-8",
             "dayReset": "04:00"
         }
     },
