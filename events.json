@@ -1,7 +1,7 @@
 {
     "games": {
-        "ARKNIGHTS": {
-            "name": "Arknights",
+        "NTE": {
+            "name": "Neverness to Everness",
             "timezone": "Etc/GMT-8",
             "dayReset": "04:00"
         },
@@ -37,18 +37,18 @@
         }
     },
     "events": {
-        "ARKNIGHTS": [
+        "NTE": [
             {
-                "event": "Test",
-                "start": "2024-08-01 04:00",
-                "end": "2024-08-11 03:59"
+                "event": "Official Release (4/29/25 - 7/23/25)",
+                "start": "2026-04-29 04:00",
+                "end": "2026-05-30 03:59"
             }
 		],
         "HSR": [
             {
-                "event": "Version 3.4 (7/3/25 - 8/11/25)",
-                "start": "2025-07-02 06:00:00",
-                "end": "2025-08-11 12:00:00"
+                "event": "Version 4.2 (4/22/26 - 5/23/26)",
+                "start": "2026-04-22 06:00:00",
+                "end": "2026-05-23 12:00:00"
             },
             {
                 "event": "Cipher",
@@ -63,14 +63,14 @@
             {
                 "event": "Fate Collab",
                 "start": "2025-07-11 06:00:00",
-                "end": "2025-12-30 12:00:00"
+                "end": "2026-12-30 12:00:00"
             }
         ],
         "WUWA": [
             {
-                "event": "Version 2.4 (6/11/25 - 7/23/25)",
-                "start": "2025-06-11 12:00",
-                "end": "2025-07-24 12:00"
+                "event": "Version 3.3 (4/29/25 - 7/23/25)",
+                "start": "2026-04-29 12:00",
+                "end": "2026-05-30 12:00"
             },
             {
                 "event": "Cartethyia",
